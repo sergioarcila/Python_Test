@@ -1,0 +1,1 @@
+python main.py --kpi_list occupancy co2 --start "2/2/15" --stop "2/3/15"
